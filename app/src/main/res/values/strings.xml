@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note</string>
+    
+    <string name="txt_done">Yapıldı</string>
+    <string name="txt_doing">Yapılıyor</string>
+    <string name="txt_to_be_done">Yapılacak</string>
+    <string name="txt_state_type">Durum Tipi</string>
+    <string name="txt_header">Başlık</string>
+    <string name="txt_content">İçerik</string>
+    <string name="txt_add">Ekle</string>
+    <string name="txt_update">Güncelle</string>
+    <string name="txt_delete">Sil</string>
+</resources>
